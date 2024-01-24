@@ -1,0 +1,30 @@
+.header-wrapper {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+.header-wrapper ul {
+  display: flex;
+  list-style-type: none;
+}
+.header-wrapper ul li {
+  margin: 0 10px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.content__img {
+  width: 355px;
+}
+
+.content__desc {
+  max-width: 500px;
+}
+
+/*# sourceMappingURL=style.css.map */
